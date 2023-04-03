@@ -10,11 +10,6 @@ Python 3.9.16
 
 Google Colab
 
-Python Requests Library
-
-Pandas Library including hvplot
-
-
 ---
 
 
