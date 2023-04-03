@@ -21,7 +21,7 @@ Pandas Library including hvplot
 ## Installation Guide
 
 
-# Install the required libraries
+ Install the required libraries
 
 `!pip install pystan`
 
@@ -32,7 +32,7 @@ Pandas Library including hvplot
 `pip install holoviews`
 
   
-# Import the required libraries and dependencies
+ Import the required libraries and dependencies
 
 `import pandas as pd`
 
